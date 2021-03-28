@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lazyload/static/css/main.4a6a6236.chunk.css",
+    "main.js": "/lazyload/static/js/main.cf22ea19.chunk.js",
+    "main.js.map": "/lazyload/static/js/main.cf22ea19.chunk.js.map",
+    "runtime-main.js": "/lazyload/static/js/runtime-main.44a48200.js",
+    "runtime-main.js.map": "/lazyload/static/js/runtime-main.44a48200.js.map",
+    "static/js/2.c2258a64.chunk.js": "/lazyload/static/js/2.c2258a64.chunk.js",
+    "static/js/2.c2258a64.chunk.js.map": "/lazyload/static/js/2.c2258a64.chunk.js.map",
+    "static/js/3.a898b513.chunk.js": "/lazyload/static/js/3.a898b513.chunk.js",
+    "static/js/3.a898b513.chunk.js.map": "/lazyload/static/js/3.a898b513.chunk.js.map",
+    "index.html": "/lazyload/index.html",
+    "static/css/main.4a6a6236.chunk.css.map": "/lazyload/static/css/main.4a6a6236.chunk.css.map",
+    "static/js/2.c2258a64.chunk.js.LICENSE.txt": "/lazyload/static/js/2.c2258a64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44a48200.js",
+    "static/js/2.c2258a64.chunk.js",
+    "static/css/main.4a6a6236.chunk.css",
+    "static/js/main.cf22ea19.chunk.js"
+  ]
+}
