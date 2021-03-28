@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lazyload/static/css/main.4a6a6236.chunk.css",
-    "main.js": "/lazyload/static/js/main.f4571e1d.chunk.js",
-    "main.js.map": "/lazyload/static/js/main.f4571e1d.chunk.js.map",
+    "main.js": "/lazyload/static/js/main.ba13f686.chunk.js",
+    "main.js.map": "/lazyload/static/js/main.ba13f686.chunk.js.map",
     "runtime-main.js": "/lazyload/static/js/runtime-main.44a48200.js",
     "runtime-main.js.map": "/lazyload/static/js/runtime-main.44a48200.js.map",
     "static/js/2.c2258a64.chunk.js": "/lazyload/static/js/2.c2258a64.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.44a48200.js",
     "static/js/2.c2258a64.chunk.js",
     "static/css/main.4a6a6236.chunk.css",
-    "static/js/main.f4571e1d.chunk.js"
+    "static/js/main.ba13f686.chunk.js"
   ]
 }
